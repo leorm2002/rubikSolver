@@ -121,8 +121,6 @@ def scanFaccia(cap):
 			if(i==9):
 				good = True
 			i+=1
-	for colore in elencoColori:
-		print(colore)
 	return elencoColori
 	
 
